@@ -1,4 +1,4 @@
-# PhotoRec
+# PhotoRec wrapper
 
 Hi, I was looking for a better script than what was posted than what was here http://www.cgsecurity.org/wiki/After_Using_PhotoRec
 
